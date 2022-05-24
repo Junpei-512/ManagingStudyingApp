@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{7455F23A-4093-4301-A3AF-CD46C1679091}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ManagingStudyingApp/Views/Home/Index.cshtml">
+    <Files>
+      <File FileName="ManagingStudyingApp/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="ManagingStudyingApp/Controllers/GoalController.cs" Line="17" Column="38" />
+      <File FileName="ManagingStudyingApp/Views/Goal/Index.cshtml" Line="11" Column="19" />
+      <File FileName="ManagingStudyingApp/Views/Goal/SetGoals.cshtml" Line="2" Column="34" />
+      <File FileName="ManagingStudyingApp/Views/Home/Privacy.cshtml" Line="1" Column="1" />
+      <File FileName="ManagingStudyingApp/Views/Home/Index.cshtml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ManagingStudyingApp" expanded="True">
+            <Node name="ManagingStudyingApp" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Goal" expanded="True" />
+                <Node name="Home" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ManagingStudyingApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

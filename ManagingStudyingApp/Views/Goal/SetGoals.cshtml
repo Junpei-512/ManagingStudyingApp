@@ -1,0 +1,17 @@
+﻿@{
+    ViewData["Title"] = "SetGoals/Goal";
+}
+
+<div class="text-center">
+    <h1>Set Goals</h1>
+    <p>@ViewData["SetGoalsMessage"]</p>
+</div>
+<div class="text-center">
+    <form method="post" asp-controller="Goal" asp-action="Form">
+        <p>Goal: <input type="text" name="goal" value="" /></p>
+        <p>e.g.  pass English certification exam grade 2</p>
+        <p>Deadline: <input type="date" name="deadline" /></p>
+        <p>* please set the future date.</p>
+        <input type="submit" class="btn btn-primary" value="Set" />
+    </form>
+</div>
