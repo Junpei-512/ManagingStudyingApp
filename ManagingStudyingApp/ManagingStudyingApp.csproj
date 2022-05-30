@@ -6,8 +6,14 @@
 
   <ItemGroup>
     <None Remove="Views\Goal\" />
+    <None Remove="Views\Plan\" />
+    <None Remove="Views\Result\" />
+    <None Remove="Views\Progress\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Views\Goal\" />
+    <Folder Include="Views\Plan\" />
+    <Folder Include="Views\Result\" />
+    <Folder Include="Views\Progress\" />
   </ItemGroup>
 </Project>

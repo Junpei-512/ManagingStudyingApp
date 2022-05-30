@@ -14,14 +14,17 @@ namespace ManagingStudyingApp.Controllers
         public IActionResult Index()
         {
             ViewData["GoalIndexMessage"] = "Please set or edit your goals in here.";
-            ViewData["SetGoalsMessage"] = "Please set your goals in here.";
-            ViewData["EditGoalsMessage"] = "Please edit your goals in here.";
             return View();
         }
 
         public IActionResult SetGoals()
         {
             ViewData["SetGoalsMessage"] = "Please set your goals in here.";
+            return View();
+        }
+        public IActionResult EditGoals()
+        {
+            ViewData["EditGoalsMessage"] = "Please edit your goals in here.";
             return View();
         }
     }

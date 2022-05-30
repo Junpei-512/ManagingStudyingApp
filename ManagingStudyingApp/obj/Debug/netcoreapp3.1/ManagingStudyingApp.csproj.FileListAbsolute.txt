@@ -35,3 +35,7 @@
 /Users/murayamajunpei/Projects/ManagingStudyingApp/ManagingStudyingApp/obj/Debug/netcoreapp3.1/ManagingStudyingApp.genruntimeconfig.cache
 /Users/murayamajunpei/Projects/ManagingStudyingApp/ManagingStudyingApp/obj/Debug/netcoreapp3.1/ManagingStudyingApp.csproj.CopyComplete
 /Users/murayamajunpei/Projects/ManagingStudyingApp/ManagingStudyingApp/obj/Debug/netcoreapp3.1/Razor/Views/Goal/SetGoals.cshtml.g.cs
+/Users/murayamajunpei/Projects/ManagingStudyingApp/ManagingStudyingApp/obj/Debug/netcoreapp3.1/Razor/Views/Goal/EditGoals.cshtml.g.cs
+/Users/murayamajunpei/Projects/ManagingStudyingApp/ManagingStudyingApp/obj/Debug/netcoreapp3.1/Razor/Views/Plan/Index.cshtml.g.cs
+/Users/murayamajunpei/Projects/ManagingStudyingApp/ManagingStudyingApp/obj/Debug/netcoreapp3.1/Razor/Views/Result/Index.cshtml.g.cs
+/Users/murayamajunpei/Projects/ManagingStudyingApp/ManagingStudyingApp/obj/Debug/netcoreapp3.1/Razor/Views/Progress/Index.cshtml.g.cs
